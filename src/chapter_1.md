@@ -7,7 +7,7 @@ new organisers some feel for it, but mostly also to ensure that
 things don't get lost.
 
 It's paradox that the rise of widely distributed
-projects, especially FOSS projects has given rise to many more on-site
+projects - especially FOSS projects - has given rise to many more on-site
 meetings. Meetups, conferences and barcamps and gatherings act as focal
 points during the year where projects are presented, discussed and started.
 
@@ -34,9 +34,9 @@ history becomes a little less oral.
 
 # Some thank yous
 
-RustFest wouldn't happen without an awesome group of people. The
-RustFest team is a special kind of people, both chaotic, but also
-very organised sometime.
+First and foremost RustFest wouldn't happen without an awesome group
+of people. The RustFest team is a special kind of people, both chaotic,
+but also very organised sometime.
 
 RustFest wouldn't also ever happened without eurucamp. eurucamp
 was a Ruby conference which I helped organise and a lot of things
@@ -47,8 +47,8 @@ I have to thank two people specifically:
 Alex, who invented eurucamp and took me on as a co-organiser in 2012.
 It's been a tough 3 years, but I learned a lot from you.
 Especially the way of being uncompromising on seeing that attendees
-as a huge group of individuals that just happened to be big, and the
-way of steering the conference towards something that otheres _weren't_.
+as a group of individuals that just happened to be big, and the
+way of steering the conference towards something that others _weren't_.
 You wanted a conference by the lake. You got yourself a conference by
 the lake. I heard you're more into islands now.
 
